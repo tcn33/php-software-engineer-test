@@ -28,7 +28,7 @@ CREATE TABLE `customer_occupation` (
 )
 ```
 
-Modify the file display_customer.php to show the list of all customers from the table `customer` together with their occupations from the `customer_occupation` table in the MySQL database to display on a web page.
+Modify the file question_1.php to show the list of all customers from the table `customer` together with their occupations from the `customer_occupation` table in the MySQL database to display on a web page.
 
 A database connection will need to be created
 
