@@ -1,5 +1,3 @@
-#Luxbet Software Engineer PHP Test#
-
 #Getting Started:#
 Feel free to download this repo's source and commit/check-in your work as you progress via your own github account within a new public repo.
 
