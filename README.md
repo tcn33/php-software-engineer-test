@@ -10,7 +10,7 @@ Given a MySQL database with the following tables:
 
 ```mysql
 CREATE TABLE `customer` (
-  `customer_id` VARCHAR(10) NOT NULL AUTO_INCREMENT,
+  `customer_id` INT(11) NOT NULL AUTO_INCREMENT,
   `username` VARCHAR(30) NOT NULL,
   `first_name` VARCHAR(255) NOT NULL,
   `last_name` VARCHAR(255) NOT NULL,
@@ -19,7 +19,7 @@ CREATE TABLE `customer` (
 )
 
 CREATE TABLE `customer_occupation` (
-  `customer_occupation_id` VARCHAR(10) NOT NULL AUTO_INCREMENT,
+  `customer_occupation_id` INT(11) NOT NULL AUTO_INCREMENT,
   `occupation_name` VARCHAR(255) NOT NULL,
   `salary` INT(7) NOT NULL,
   PRIMARY KEY (`customer_occupation_id`)
