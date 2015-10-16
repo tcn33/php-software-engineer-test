@@ -1,6 +1,4 @@
 #Getting Started:#
-Download this repo's source and commit/check-in your work as you progress via your own github account within a new public repo.
-
 The questions can be answered within the appropriate file. (I.e. Question 1 can be answered in the file: question_1.php) unless otherwise stated in the question.
 
 Each file will contain further instructions on where to insert your code.
